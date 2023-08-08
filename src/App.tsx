@@ -1,0 +1,11 @@
+import UserPage from "./page/user";
+
+function App() {
+  return (
+    <>
+      <UserPage />
+    </>
+  )
+}
+
+export default App
